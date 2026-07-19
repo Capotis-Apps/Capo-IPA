@@ -8,7 +8,7 @@
 
 | Icono | Nombre de la App | Descripción Corta | Versión | Enlace de Descarga |
 | :---: | :--- | :--- | :---: | :---: |
-| 🛒 | **CartGO** | Una app para tener tu lista de la compra inteligente. | v1.0.2 | [Descargar .ipa](./CartGo/) |
+| 🛒 | **CartGO** | Una app para tener tu lista de la compra inteligente. | v1.0.3 | [Descargar .ipa](./CartGo/) |
 | 🎵 | **CapoDrome** | Una app para conectarse a Navidrome desde tu iPhone y iPad | v1.0.0 | [Descargar .ipa](./CapoDrome/) |
 
 ---
