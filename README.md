@@ -22,7 +22,7 @@ Para instalar cualquiera de estos archivos `.ipa`, necesitas usar una herramient
 * **Sideloadly:** Método rápido desde el ordenador mediante cable o Wi-Fi.
 
 ## ⚠️ Descargo de Responsabilidad
-Estas aplicaciones se proporcionan "tal cual", sin garantías de ningún tipo. No estoy afiliado a Apple Inc. Instala estas apps bajo tu propio riesgo.
+Estas aplicaciones se proporcionan "tal cual", sin garantías de ningún tipo. No estamos afiliados a Apple Inc. Instala estas apps bajo tu propio riesgo.
 
 ## 📄 Licencia
 Este repositorio general utiliza la licencia **GNU GPLv3**. Revisa los detalles en el archivo [LICENSE](LICENSE).
